@@ -4,7 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomeDashboardComponent } from './dashboard/home-dashboard/home-dashboard.component';
 
 const routes: Routes = [
-  { path: '', component: HomeEcommerceComponent },
+ // { path: '', component: HomeEcommerceComponent },
 
 ];
 

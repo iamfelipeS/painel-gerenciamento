@@ -49,20 +49,16 @@
 
 .content{
   background-color: black;
-}
-
-.navbar-nav{
-  margin-left: 1rem;
+  border: 2px solid;
 }
 
 .container-navbar{
   margin-top: 5rem;
   align-items: center;
+  
+ }
+ 
+.navbar-nav{
+  margin-left: 0.5rem;
 }
 
-.user-info{
-  display: flex;
-  color: white;
-  align-items: center;
-  flex-wrap: wrap;
-}

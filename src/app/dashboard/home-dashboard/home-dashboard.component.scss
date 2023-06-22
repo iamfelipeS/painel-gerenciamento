@@ -1,18 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
-  .back-to-top {
-    position: fixed;
-    display: none;
-    right: 45px;
-    bottom: 45px;
-    z-index: 99;
-  }
-
   .content {
-  padding-left: 250px; /* Deve ser igual à largura da navbar */
-  background-color: #000000;
-  margin-top: 0rem;
-}
+    padding-left: 250px; /* Deve ser igual à largura da navbar */
+    padding-top: 0px; /* Remover o padding-top */
+    background-color: #000000;
+    margin-top: 0rem;
+  }
 
   /*** Spinner ***/
   #spinner {
